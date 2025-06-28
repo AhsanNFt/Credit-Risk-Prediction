@@ -79,8 +79,7 @@ My approach to credit risk prediction involved the following steps:
 ## 📉 Visualizations
 
 ### 📈 Credit History vs Loan Status
-
-![image](https://github.com/user-attachments/assets/ed364a1d-4e7e-44d5-a8a6-f9e7cf555606)
+![image](https://github.com/user-attachments/assets/781b35b3-22b1-4c25-83cf-304dcaf900db)
 
 **Explanation**: This bar plot illustrates the relationship between an applicant's credit 
   history and their loan approval status. It clearly shows that applicants with a good credit 
@@ -89,7 +88,7 @@ My approach to credit risk prediction involved the following steps:
   critical role of credit history in loan approval decisions.
 
 ### 🟩 Logistic Regression Confusion Matrix
-![image](https://github.com/user-attachments/assets/a85a3673-9bc2-4b16-9684-c05081ee412e)
+![image](https://github.com/user-attachments/assets/1207859a-db42-4d95-b3a6-fe9efc1faf33)
 
 **Explanation**: This confusion matrix visualizes the performance of the Logistic 
   Regression model. It shows the counts of true positives (correctly predicted approved 
@@ -100,7 +99,7 @@ My approach to credit risk prediction involved the following steps:
   understanding the types of errors the model is making.
 
 ### 🟨 Decision Tree Confusion Matrix
-![image](https://github.com/user-attachments/assets/0810525d-f1bb-4208-9ba1-f7a6ae9784e8)
+![image](https://github.com/user-attachments/assets/59cb67f2-114e-4eb4-93ce-e0b54935de10)
 
 **Explanation**: Similar to the Logistic Regression confusion matrix, this matrix displays 
   the performance of the Decision Tree model. By comparing this with the Logistic 
